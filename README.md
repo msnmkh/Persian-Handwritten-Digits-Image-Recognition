@@ -29,6 +29,7 @@ This code is written in python. To use it you will need:
 Run python PHDRI.py
 ## Result
 Algorithm | Feature-Extrector | Accuracy |
+--- | --- | ---
 KNN | HOG | 91%
 KNN | SVD | 94%
 KNN | PCA | 85%
