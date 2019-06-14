@@ -1,2 +1,2 @@
-# Handwritten-Digits-Recognition-
+# Handwritten Digits Recognition
 Persian Handwritten Digits Recognition 
