@@ -18,7 +18,7 @@ This project use feature extractor and classification algorithm to detect 0 - 11
 * PCA
 ## Architecture
 <p align="center"><img src=""></p>
-# #Code Requirements
+##Code Requirements
 This code is written in python. To use it you will need:
 * python3
 * matplotlib
