@@ -17,7 +17,7 @@ This project use feature extractor and classification algorithm to detect 0 - 11
 * SVD
 * PCA
 ## Architecture
-image
+<p align="center"><img width=40% src="https://github.com/msnmkh/Persian-Handwritten-Digits-Image-Recognition/media/core-stage-of-ocr.JPG"></p>
 ## Code Requirements
 This code is written in python. To use it you will need:
 * python3
