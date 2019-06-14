@@ -17,7 +17,7 @@ This project use feature extractor and classification algorithm to detect 0 - 11
 * SVD
 * PCA
 ## Architecture
-<p align="center"><img width=40% src="https://github.com/ralireza/phdr/blob/master/media/logo.png"></p>
+image
 ## Code Requirements
 This code is written in python. To use it you will need:
 * python3
