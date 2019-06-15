@@ -42,9 +42,6 @@ KNN | PCA | 85%
 MLP | HOG | 93%
 MLP | SVD | 57%
 MLP | PCA | 90%
-QDA | HOG | 31%
-QDA | SVD | 20%
-QDA | PCA | 16%
 Parzen | HOG | 91%
 Parzen | SVD | 70%
 Parzen | PCA | 83.2%
