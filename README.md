@@ -10,7 +10,6 @@ This project use feature extractor and classification algorithm to detect 0 - 11
 * MLP
 * RBF
 * AdaBoost
-* QDA
 * GSD
 * Parzen
 * LinearSVC
