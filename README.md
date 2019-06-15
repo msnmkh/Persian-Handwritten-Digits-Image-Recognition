@@ -14,7 +14,7 @@ This project use feature extractor and classification algorithm to detect 0 - 11
 * Parzen
 * LinearSVC
 
-## Feature Extrector Algorithm
+## Feature Extractor Algorithm
 * HOG
 * SVD
 * PCA
