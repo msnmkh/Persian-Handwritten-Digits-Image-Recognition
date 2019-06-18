@@ -1,5 +1,5 @@
 ## Introduction
-This project use feature extractor and classification algorithm to detect 0 - 11 digit of  Hada dataset.
+This project use feature extractor and classification algorithm to detect 0 - 11 digit of  Hoda dataset.
 
 ## Dataset
 * HODA Farsi Digit Dataset : [http://farsiocr.ir](http://farsiocr.ir)
